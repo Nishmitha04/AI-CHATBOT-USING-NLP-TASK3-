@@ -39,3 +39,4 @@ Applications and Relevance: This task introduces a basic implementation of conve
 The project also reinforced important software development concepts such as text preprocessing, intent classification, semantic similarity, and response generation. It demonstrated how even a lightweight model like en_core_web_sm in spaCy can deliver efficient results for simple chatbot functionalities.
 
 Output:
+![Image](https://github.com/user-attachments/assets/ffe7af56-b285-4cca-bf42-9b174e127261)
